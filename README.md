@@ -12,7 +12,7 @@ Here you can create a new list: <br></br>
 <img width="1246" alt="new_list" src="https://github.com/daliarod96/todolist-app/assets/79605544/713a7d48-9b11-4420-beee-9098ad34f3ff">
 This is the page that shows all your lists:  <br></br>
 <img width="1238" alt="lists" src="https://github.com/daliarod96/todolist-app/assets/79605544/aea6f9a0-705a-4b0d-823b-12b3c85fa059">
-You can add and check elements as well as delete your a list:
+You can add and check elements as well as delete your a list: <br></br>
 <img width="1240" alt="a list" src="https://github.com/daliarod96/todolist-app/assets/79605544/cd78a31b-fee4-40bf-84f4-77895b411463">
 Logout page:  <br></br>
 <img width="1246" alt="logout" src="https://github.com/daliarod96/todolist-app/assets/79605544/f37820fa-523a-404a-84fc-fe2df977ab0d">
