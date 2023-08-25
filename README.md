@@ -1,6 +1,6 @@
 # todolist-app
-I developed a simple To Do List application on Django.
-Home page:
+I developed a simple To Do List application on Django. <br></br>
+Home page: <br></br>
 <img width="1243" alt="home" src="https://github.com/daliarod96/todolist-app/assets/79605544/111ca8eb-2f2b-4ca4-9c9e-43e184c154f5">
 Login page:
 <img width="1241" alt="login" src="https://github.com/daliarod96/todolist-app/assets/79605544/8d34ea2b-2b2a-40e7-9793-80bcf7412d37">
