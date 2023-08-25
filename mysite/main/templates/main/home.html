@@ -1,0 +1,20 @@
+{% extends extended_template %}
+
+{% block title %}
+Home
+{% endblock %}
+
+{% block content %}
+{% if request.user.is_authenticated %}
+	Hello! Welcome back to Basic To-Do Lists. <br></br>
+	You can <a href="/create">start a new list</a> or <a href="/view">view</a> and edit your existing lists.
+{% else %}
+	Hello! Welcome to Basic To-Do Lists. My name is Dalia Rodriguez. I am learning web development on Django. This is my first project. It is a simple mobile-friendly to-do-list website. <br></br>
+	In order to create a to-do-list, you must first <a href="/login">Log in</a> (or <a href="/register">create an account</a> if you haven't already). <br></br>
+	After logging in, you can start a new list
+	or view and edit your existing lists.
+	<br></br>
+	Thank you!
+{% endif %}
+
+{% endblock %}
